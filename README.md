@@ -1,2 +1,2 @@
-# Games-Management-System
-SQL 
+# inventory-Management-System
+language used SQL 
